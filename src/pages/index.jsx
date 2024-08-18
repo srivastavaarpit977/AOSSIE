@@ -45,10 +45,7 @@ export default function Home() {
                 We Innovate <br /> We Educate
               </h1>
               <p className="mt-4 font-mono text-xl leading-7 text-zinc-600 dark:text-zinc-400 ">
-                We are an Australian not-for-profit umbrella organization for
-                open-source projects. We believe the open-source philosophy
-                provides a resource-efficient channel to transfer knowledge and
-                achieve innovation and education.
+                  We are an Australian non-profit organization that supports open-source projects. We believe that the open-source philosophy is a resource-efficient way to share knowledge, drive innovation, and promote education.
               </p>
               <div className="mt-6 ml-4 flex gap-6">
                 <Link
